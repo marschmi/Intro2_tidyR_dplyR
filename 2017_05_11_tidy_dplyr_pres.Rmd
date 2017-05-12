@@ -2,7 +2,7 @@
 title: "Helpful data wranging functions with tidyR & dplyR"
 subtitle: "Ann Arbor R User Group"
 author: "Marian L. Schmidt, twitter handle: micro_marian, email: marschmi@umich.edu"
-date: "May 11th, 2017"
+date: "May 11th, 2017  *(Please use arrow keys to flip through the presentation)*"
 bibliography: bibliography.bib
 csl: nature.csl
 output:
