@@ -4,4 +4,5 @@
 
 - Presentation can be viewed at [http://rpubs.com/marschmi/tidyR_dplyR](http://rpubs.com/marschmi/tidyR_dplyR).
 
-     - **Note:** Please use your arrow keys to flip through the presentation.
+     - **Note:** Please use your arrow keys to flip through the presentation.  
+     - The .Rmd of the presentation can be found here: [2017_05_11_tidy_dplyr_pres.Rmd](https://github.com/marschmi/Intro2_tidyR_dplyR/blob/master/2017_05_11_tidy_dplyr_pres.Rmd)

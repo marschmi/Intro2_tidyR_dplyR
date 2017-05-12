@@ -421,6 +421,7 @@ anti_join(songs, artists, by = "name")
 ## Resources
 
 - [These slides](http://rpubs.com/marschmi/tidyR_dplyR)  
+- [github repository for this presentation](https://github.com/marschmi/Intro2_tidyR_dplyR)  
 - Data wrangingling [cheatsheet with tidyr & dplyr](https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf)
 - Garrett Grolemund [Data Wrangling with R slides](https://dl.dropboxusercontent.com/u/5896466/wrangling-webinar.pdf)  
     - **Note:** Many of the images from my presentation are from Garrett's presentation above. 
